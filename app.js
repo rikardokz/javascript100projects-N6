@@ -38,5 +38,4 @@ next.addEventListener("click", () => {
 
 back.addEventListener("click", () => {
     prevUrl();
-    console.log(urls[counter])
 })
